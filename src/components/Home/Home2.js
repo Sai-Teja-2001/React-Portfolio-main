@@ -20,7 +20,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> python and Javascript. </b>
+                <b className="purple"> Python and SQL. </b>
               </i>
               <br />
               <br />
